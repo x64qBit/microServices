@@ -1,6 +1,0 @@
-com\random\controller\BookRestController.class
-com\random\service\BookService.class
-com\random\impl\BookServiceImpl.class
-com\random\domain\Book.class
-com\random\domain\BookList.class
-com\random\domain\ObjectWithId.class
